@@ -1,0 +1,3 @@
+[submodule "test_sub_module"]
+	path = test_sub_module
+	url = git@github.com:shivap-amd/test_sub_module.git
